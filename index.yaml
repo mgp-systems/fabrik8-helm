@@ -3,12 +3,12 @@ entries:
   chart:
   - apiVersion: v2
     appVersion: latest
-    created: "2025-05-09T20:35:10.8800857+01:00"
-    description: A Helm chart of helm charts for Fabrik8 Deployments
-    digest: 6a9b9befc1cbb58afaf664ec43a4900cfdc8bfa1a706277dcd4d82947a7b70df
+    created: "2025-05-09T21:13:27.5057133+01:00"
+    description: A Helm chart of helm charts for Generic Fabrik8 Deployments
+    digest: 0fa1cdf4800fb65c68890a234b0c1439636a078c1a7fe3d27795dcb949415217
     name: chart
     type: application
     urls:
     - https://raw.githubusercontent.com/mgp-systems/fabrik8-helm/refs/heads/main/chart-1.0.0.tgz
     version: 1.0.0
-generated: "2025-05-09T20:35:10.8800857+01:00"
+generated: "2025-05-09T21:13:27.5057133+01:00"

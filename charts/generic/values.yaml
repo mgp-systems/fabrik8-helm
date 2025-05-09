@@ -121,3 +121,14 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+
+# -- Environment variables to pass to application controller
+env: []
+
+# -- envFrom to pass to application controller
+# @default -- `[]` (See [values.yaml])
+envFrom: []
+# - configMapRef:
+#     name: config-map-name
+# - secretRef:
+#     name: secret-name
