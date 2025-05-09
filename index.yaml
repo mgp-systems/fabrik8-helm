@@ -2,12 +2,12 @@ apiVersion: v1
 entries:
   fabrik8-helm-template:
   - apiVersion: v2
-    created: "2025-05-09T17:27:51.1784361+01:00"
+    created: "2025-05-09T17:41:58.5780586+01:00"
     description: A Helm chart of helm charts for Fabrik8 Deployments
     digest: 061afdd457107bc31e9773c80b8518a08cca436b0f058dd346cfd095154f9ac4
     name: fabrik8-helm-template
     type: application
     urls:
-    - https://mgp-systems.github.io/fabrik8-helm/fabrik8-helm-template-1.0.0.tgz
+    - https://red-tree-0368e9c03.6.azurestaticapps.net/fabrik8-helm-template-1.0.0.tgz
     version: 1.0.0
-generated: "2025-05-09T17:27:51.1779143+01:00"
+generated: "2025-05-09T17:41:58.5774875+01:00"
