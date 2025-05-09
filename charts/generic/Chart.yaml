@@ -3,3 +3,4 @@ name: chart
 description: A Helm chart of helm charts for Fabrik8 Deployments
 type: application
 version: 1.0.0
+appVersion: "latest"
