@@ -1,13 +1,13 @@
 apiVersion: v1
 entries:
-  helm-chart:
+  chart:
   - apiVersion: v2
-    created: "2025-05-09T19:55:43.0124048+01:00"
+    created: "2025-05-09T20:00:45.5314709+01:00"
     description: A Helm chart of helm charts for Fabrik8 Deployments
-    digest: f838d4111dcddb5b09fb9d8f02eeddc844ee9747a3fab2da18e3ba8b677b1552
-    name: helm-chart
+    digest: aca0baebee8a847fa0fbb524a20a49b6e718756632d3fab96d5120d8ee0f00ea
+    name: chart
     type: application
     urls:
-    - https://raw.githubusercontent.com/mgp-systems/fabrik8-helm/refs/heads/main/helm-chart-1.0.0.tgz
+    - https://raw.githubusercontent.com/mgp-systems/fabrik8-helm/refs/heads/main/chart-1.0.0.tgz
     version: 1.0.0
-generated: "2025-05-09T19:55:43.0088036+01:00"
+generated: "2025-05-09T20:00:45.5305691+01:00"
